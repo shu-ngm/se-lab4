@@ -1,0 +1,5 @@
+# TC10: Fire both stores when only Secondary is loaded
+GT4500,0,0,1,0
+TORPEDO,ALL
+# Check if stores are empty
+TORPEDO,SINGLE

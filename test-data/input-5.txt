@@ -1,0 +1,6 @@
+# TC05: Falls back to Primary when Secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+# Secondary store fire
+TORPEDO,SINGLE
+

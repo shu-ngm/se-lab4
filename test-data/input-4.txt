@@ -1,0 +1,3 @@
+# TC04: Falls back to Secondary when Primary is empty
+GT4500,0,0,1,0
+TORPEDO,SINGLE
