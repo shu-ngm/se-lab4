@@ -1,0 +1,9 @@
+# TC02: Secondary store is fired on second shot
+# GT4500,2,0,2,1
+SUCCESS
+
+# TORPEDO,SINGLE
+SUCCESS
+
+# TORPEDO,SINGLE
+FAIL

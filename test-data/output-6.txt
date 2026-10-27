@@ -1,0 +1,6 @@
+# TC06: No fallback when the primary fire fails
+# GT4500,1,1,1,0
+SUCCESS
+
+# TORPEDO,SINGLE
+FAIL

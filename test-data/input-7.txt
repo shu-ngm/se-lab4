@@ -1,0 +1,5 @@
+# TC07: No fallback when the secondary fire fails
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+# Secondary store fire
+TORPEDO,SINGLE

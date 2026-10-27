@@ -1,0 +1,9 @@
+# TC08: Fire both stores
+# GT4500,1,0,1,0
+SUCCESS
+
+# TORPEDO,ALL
+SUCCESS
+
+# TORPEDO,SINGLE
+FAIL

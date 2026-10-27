@@ -1,0 +1,5 @@
+# TC09: Fire both stores when only Primary is loaded
+GT4500,1,0,0,0
+TORPEDO,ALL
+# Check if stores are empty
+TORPEDO,SINGLE
